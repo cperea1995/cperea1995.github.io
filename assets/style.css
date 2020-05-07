@@ -4,7 +4,7 @@ body {
 	-webkit-font-smoothing:antialiased;}
 
 a{color:#00a9c6; text-decoration:none;}
-a:hover{color:#666;}
+a:hover{color:#666; text-decoration:none;}
 .btn,a,.btn:hover,a:hover {
 -webkit-transition: all 0.3s ease-in-out;
 -moz-transition: all 0.3s ease-in-out;
@@ -252,4 +252,8 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 .social-links {
 	text-decoration: none;
 	color: #e89f10;
+}
+
+.skills-space {
+	padding: 1em 0;
 }
